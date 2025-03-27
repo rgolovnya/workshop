@@ -1,3 +1,8 @@
+
+https://github.com/data-science-on-aws/
+
+
+
 # Attend our Free, Online, Full-Day Workshop!
 You must register on [**Eventbrite**](https://www.eventbrite.com/e/full-day-workshop-kubeflow-gpu-kerastensorflow-20-tf-extended-tfx-kubernetes-pytorch-xgboost-tickets-63362929227).  
 
